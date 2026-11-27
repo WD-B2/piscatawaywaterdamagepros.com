@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves slug/index.html and trailing slashes natively.
+# No redirects needed. Add real 301s here only if a live URL is ever renamed.
